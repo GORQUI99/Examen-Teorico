@@ -8,7 +8,7 @@ function SideBar() {
           href="#"
           className="flex items-center pb-4 border-b border-b-gray-600"
         >
-          <span className="ml-3 text-lg font-bold text-white">Examen</span>
+          <span className="ml-3 text-lg font-bold text-white">User Camilo</span>
         </a>
         <ul className="mt-4">
           <li className="mb-1 group active">
